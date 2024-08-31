@@ -1,0 +1,6 @@
+employee_id,first_name,last_name,department,hire_date,salary,manager_id
+1,John,Doe,Sales,2023-01-15,70000,3
+2,Jane,Smith,Marketing,2022-11-20,80000,4
+3,Emily,Johnson,Sales,2021-05-10,75000,NULL
+4,Michael,Brown,IT,2020-07-25,90000,NULL
+5,Anna,White,Marketing,2022-09-12,78000,2
